@@ -39,6 +39,12 @@ ul {
   font-size: 26px;
   line-height: 1.19;
 }
+.logo .accent {
+  color: #000000;
+}
+.logo .accent-footer {
+  color: #ffffff;
+}
 .site-nav .link {
   color: var(--title-text-color);
   font-weight: 500;
@@ -74,6 +80,7 @@ ul {
   color: #ffffff;
   font-size: 14px;
   line-height: 1.71;
+  font-style: normal;
 }
 .address .link-address:hover,
 .address .link-address:focus {
@@ -83,6 +90,7 @@ ul {
   color: rgba(255, 255, 255, 0.6);
   font-size: 14px;
   line-height: 1.71;
+  font-style: normal;
 }
 .address .link:hover,
 .address .link:focus {
@@ -156,7 +164,7 @@ ul {
 .section-team .text {
   color: var(--primery-text-color);
   font-size: 16px;
-  line-height: 19px;
+  line-height: 1.18;
   /* identical to box height */
   text-align: center;
 }
