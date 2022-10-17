@@ -26,6 +26,9 @@ button {
 ul {
   list-style: none;
 }
+a {
+  text-decoration: none;
+}
 
 /* стили для хедер */
 /* page header */
